@@ -92,6 +92,7 @@ h1, h2, h3, h4, h5 {
 	display: inline-block;
 	width:80%;
 	height:500px;
+	border-bottom: 1px solid black;
 }
 
 .title{
@@ -166,10 +167,11 @@ h1, h2, h3, h4, h5 {
 .bottom-content{
 	display:inline-block;	
 	width:80%;
-	height: 200px;
+	height: 135px;
 	padding:20px;
 	margin:20px;
 	margin-left:100px;
+	border-bottom: 1px solid black;
 }
 .services{
 	display:inline-block;
@@ -189,4 +191,5 @@ h1, h2, h3, h4, h5 {
 }
 footer{
 	margin-left: 100px;
+	
 }
